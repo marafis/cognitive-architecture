@@ -1,7 +1,4 @@
 # TOGAF 10 Study Guide & Exam Preparation
-
-## Based on the Transcript Content
-
 ---
 
 ## PART 1: CORE CONCEPTS CHEAT SHEET
