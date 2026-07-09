@@ -1,2 +1,2 @@
 Togaf Contents
-- [TOGAF Overview](what-is-togaf.md)
+- [What is TOGAF](what-is-togaf.md)
